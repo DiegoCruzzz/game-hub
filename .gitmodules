@@ -1,3 +1,9 @@
 [submodule "games/2048"]
 	path = games/2048
 	url = https://github.com/gabrielecirulli/2048.git
+[submodule "games/sudoku"]
+	path = games/sudoku
+	url = ../sudoku
+[submodule "games/rompebloques"]
+	path = games/rompebloques
+	url = ../rompebloques
